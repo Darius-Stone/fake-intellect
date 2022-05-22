@@ -1,4 +1,4 @@
 # fake-intellect
 Refreshing my knowledge
 
-__By Darius :)__
+_By Darius :)_
